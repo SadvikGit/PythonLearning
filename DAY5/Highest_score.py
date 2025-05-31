@@ -3,4 +3,4 @@ maxx =0
 for i in student_scores :
     if  i >= maxx:
         maxx=i
-print(f"The Highest Score Among Given list is {maxx}.")
+print(f"The Highest Score Among Given list is {maxx} .")
